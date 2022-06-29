@@ -6,7 +6,7 @@
 
 ## Пример запуска
 
-Python3 должен быть уже установлен. Если нет, то обратитесь [статья по установке Python для Windows 10](https://docs.microsoft.com/ru-ru/windows/python/beginners#install-python).
+Python3 должен быть уже установлен. Если нет, то обратитесь к [статье по установке Python для Windows 10](https://docs.microsoft.com/ru-ru/windows/python/beginners#install-python).
 
 Для запуска программы используйте команду в папке проекта:
 
